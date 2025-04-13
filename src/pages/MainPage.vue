@@ -1,9 +1,9 @@
 <template>
   <div>
-    <main>
+    <section>
       <ServerInfo/>
       <Gallery/>
-    </main>
+    </section>
   </div>
 </template>
 
