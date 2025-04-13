@@ -5,7 +5,7 @@ import path from 'path';
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/hc-metropolitan-portal/',
+  base: process.env.GITHUB_PAGES ? '/hc-metropolitan-portal/': './',
   plugins: [vue()],
   resolve: {
     alias: {
