@@ -1,9 +1,9 @@
 <template>
   <div class="card">
     <h3 class="title">{{ title }}</h3>
-    <a :href="url" rel="noopener noreferrer">
+    <router-link :to="url" rel="noopener noreferrer">
       <img :src="image" :alt="title" class="image" />
-    </a>
+    </router-link>
   </div>
 </template>
 
