@@ -1,0 +1,1 @@
+import{_ as t,c as s,a as e,o as a}from"./index-CSpQ6cv1.js";const n="/hc-metropolitan-portal/images/Neko.png",c={},r={class:"page"};function l(_,o){return a(),s("div",r,o[0]||(o[0]=[e("h1",null,"猫のページへようこそ！",-1),e("img",{alt:"Neko",src:n},null,-1),e("p",null,"ここでは猫の街の紹介をします。",-1)]))}const d=t(c,[["render",l],["__scopeId","data-v-16ef2d6b"]]);export{d as default};
