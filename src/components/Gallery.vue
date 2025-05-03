@@ -17,9 +17,9 @@
 import Card from "./Card.vue";
 
 const images = [
-  ['/images/Warehouse.png', '倉庫', 'warehouse'],
-  ['/images/Neko.png', 'ネコハウス', 'neko'],
-  ['/images/House.png', '家', 'house']
+  ['./images/Warehouse.png', '倉庫', 'warehouse'],
+  ['./images/Neko.png', 'ネコハウス', 'neko'],
+  ['./images/House.png', '家', 'house']
 ]
 
 
